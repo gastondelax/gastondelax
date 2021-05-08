@@ -7,7 +7,7 @@ En la parte académica realicé un lindo recorrido: licenciatura en Turismo, esp
 Concretamente me enfoco en la gestión de las tecnologías de información en el marco de los Destinos Turísticos Inteligentes.
 
 Pueden leer más en mi BIO
-También me pueden encontrar en (Twitter)(https://twitter.com/gastondelax) y (Linkedin)(https://www.linkedin.com/in/gastondelacruz)
+También me pueden encontrar en [Twitter](https://twitter.com/gastondelax) y [Linkedin](https://www.linkedin.com/in/gastondelacruz)
 
 Abierto a recibir consejos y consultas 💬
 
