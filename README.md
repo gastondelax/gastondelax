@@ -7,6 +7,8 @@ Actualmente me enfoco en la gestión de las tecnologías de información en el m
 Profesionalmente trabajé en consultoría y docencia universitaria. Descubrí que mi fuerte es 'ir para adelante'. 
 Abierto a recibir consultas. 
 
+Pueden leer más en mi BIO
+También me pueden encontrar en (Twitter)(https://twitter.com/gastondelax) y (Linkedin)(https://www.linkedin.com/in/gastondelacruz)
 
 <!--
 **gastondelax/gastondelax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
